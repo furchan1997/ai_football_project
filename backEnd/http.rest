@@ -1,0 +1,13 @@
+@loacal=http://localhost:3000
+
+GET  {{loacal}}/api/
+
+###
+
+POST {{loacal}}/api/
+Content-Type: application/json
+
+
+{
+  "message": "מה זה בינה מלאכותית?"
+}

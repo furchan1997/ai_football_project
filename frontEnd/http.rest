@@ -1,0 +1,4 @@
+@apiSport=https://v3.football.api-sports.io/fixtures?date=2025-07-28
+
+GET  {{apiSport}}
+x-apisports-key: dfbb719f43353fa1a8fca32c95c26d82
